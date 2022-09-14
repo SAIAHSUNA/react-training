@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    -ms-wrap-margin: 20px;
+
+}
+
+button
+{
+
+    background-color: red;
+    padding: 20px;
+    
+
+}
