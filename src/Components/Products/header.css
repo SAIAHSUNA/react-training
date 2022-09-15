@@ -1,16 +1,20 @@
 .header{
     display: flex;
     justify-content: center;
-    padding: 20px;
-    -ms-wrap-margin: 20px;
-
+    background-color: #393b43;
+    margin-top: 0px;
+   
 }
 
-button
+a
 {
 
-    background-color: red;
-    padding: 20px;
+    /* background-color: rgb(163, 114, 185); */
+    padding: 30px;
+    margin: 3px;
+    color: rgb(249, 248, 245);
+    font-size: 25px;
+    text-decoration:none;
     
 
 }

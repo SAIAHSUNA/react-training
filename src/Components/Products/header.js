@@ -5,10 +5,11 @@ const Header =()=>{
 
    return <div className="header">
 
-       <button>Add Product</button>
-       <button>Product List</button>
-       <button>Price</button>
-       <button>About Product</button>
+       <a href="" >Product</a>
+       <a href="" >Add Product</a>
+       <a href="" >About</a>
+       <a href="" >Price</a>
+       
 
    </div>
 
