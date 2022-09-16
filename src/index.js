@@ -6,13 +6,9 @@ import Header from './Components/Products/header';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // <React.StrictMode>
-  //   <App />
-  // </React.StrictMode>
-  <div>
-    <Header />
-    <ProductList />
-    </div>
-
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+  
 );
 
